@@ -1,5 +1,4 @@
-7. Cipher
-=========
+# 7. Cipher
 
 Implement a [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher), both encoding and decoding.
 The key is an integer from 1 to 25.

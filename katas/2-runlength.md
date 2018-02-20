@@ -1,5 +1,4 @@
-2. Runlength
-=====
+# 2. Runlength
 
 Create a program that takes a single string as input, and returns the [run length encoded value](https://en.wikipedia.org/wiki/Run-length_encoding).
 

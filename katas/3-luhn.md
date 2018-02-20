@@ -1,5 +1,4 @@
-3. Luhn-check
-=======
+# 3. Luhn-check
 
 The formula verifies a number against its included check digit, which is usually appended to a partial account number to generate the full account number. This number must pass the following test:
 

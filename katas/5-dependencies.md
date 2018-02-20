@@ -1,5 +1,4 @@
-5. Dependencies
-=======
+# 5. Dependencies
 
 Let’s write some code that calculates how dependencies propagate between things such as classes in a program.
 
