@@ -20,3 +20,11 @@ This week, let’s implement the code for a supermarket checkout that calculates
 You need to `scan` the following input and give us 2 things in the result: the total to pay, and total savings:
 
 `AAABCFGABBFGADDDCA`
+
+* Try to use [Agents](https://elixirschool.com/en/lessons/advanced/concurrency/#agents) for your implementation
+* Start with processing and storing the list first, worry about the item prices later
+
+### Extra mile
+
+* Keep a running total while scanning the items
+* Do the total, and calculate the total savings as well!

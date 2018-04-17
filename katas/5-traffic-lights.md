@@ -29,6 +29,8 @@ Light sequence is the following:
 
 ## Task
 
+To start, let's create a new OTP app using `mix new traffic --app traffic --sup`
+
 1. Write a generic manager for these light states
  - Use an Agent, or a GenServer, and implement a queue system for A and B lights
  - Implement the traffic lights sequence above
