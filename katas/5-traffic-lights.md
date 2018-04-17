@@ -42,6 +42,7 @@ To start, let's create a new OTP app using `mix new traffic --app traffic --sup`
     - If it sees a green light, it will pass, and go (i.e. process is finished)
 3. Process those queues!
   - Now we have lights, a sequence and some cars. Time to get them moving!
+4. Now tie it into our OTP app, use the supervision tree
 
 ### Extra tasks, if you're far ahead
 
