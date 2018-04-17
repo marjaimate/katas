@@ -40,4 +40,4 @@ Afternoon Session
 
 ## OTP Behaviours
 
-Agents, Processes, Tasks, gen\_server
+Agents, Processes, gen\_server! We'll build an OTP application in Elixir, simulating some traffic management.

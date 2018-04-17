@@ -13,3 +13,4 @@ aa bb cc dd aaa is valid - aa and aaa count as different words.
 ## Task
 
 Write a small program to check if a password is valid
+

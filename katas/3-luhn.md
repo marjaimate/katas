@@ -18,3 +18,7 @@ This check is used on credit and debit cards (i.e. all your card numbers will pa
 ## Task
 
 Write a program that validates any card number
+
+### Extra mile
+
+Write a credit card number generator!

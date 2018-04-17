@@ -51,3 +51,4 @@ To start, let's create a new OTP app using `mix new traffic --app traffic --sup`
   - The Amber state for both takes 5 seconds.
 - Add a queue monitoring, if A queue is larger by i.e. a factor of 2, then switch sequence, etc.
 - Add supervisors to this, where we can
+- Change the gen\_server and allow us to create more than one traffic lights.

@@ -10,7 +10,7 @@ This compression algorithm can be fairly efficient for some types of data. For e
 
 Historically, RLE has been used to encode bitmap images in Windows 3.x. It was not a commonly used format, however it was used as the format of the startup screen. The algorithm is also used by fax machines, since the data they send is largely whitespace with small amounts of text on the page.
 
-## Example
+## Task
 
 Given a string of uppercase characters in the range A-Z, replace runs of sequential characters with a single instance of that value preceded by the number of items in the run.
 
@@ -18,3 +18,6 @@ For example, if would take the sequence JJJTTWPPMMMMYYYYYYYYYVVVVVV the output w
 
 3J2T1W2P4M9Y6V
 
+### Extra mile
+
+Do the reverse! Implement a runlength decoder
