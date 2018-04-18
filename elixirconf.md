@@ -17,6 +17,12 @@ Then during the second half of the day, we'll build on what we've learnt with wr
 Target audience would be beginners to Elixir, but advanced users are welcome too if they'd like to flex their muscles a bit.
 The course will provide a nice introduction to Elixir first, then diving deeper in the roots of the language, exploring the underlying OTP behaviours. Previous knowledge of Erlang or functional programming is not essential.
 
+Resources
+=======
+
+* https://elixirschool.com
+* https://hexdocs.pm
+
 Morning Session
 ==========
 
