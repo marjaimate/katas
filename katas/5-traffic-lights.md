@@ -1,4 +1,4 @@
-# 6. Traffic Lights
+# 5. Traffic Lights
 
 We are all familiar with traffic lights? At least I assume everyone seen one of those before. And in that case, you should be familiar with how traffic intersections work, right? Let's take a look at the following intersection:
 
