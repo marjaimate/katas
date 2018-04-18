@@ -1,7 +1,8 @@
 defmodule Luhn do
     def validate(l) when is_binary(l) do
         validate(
-            String.graphemes(l)
+            l
+            |> String.graphemes
             |> Enum.map(&String.to_integer/1)
         )
     end
