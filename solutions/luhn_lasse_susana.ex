@@ -9,6 +9,7 @@ defmodule Luhn do
     def validate(l) when is_list(l) and length(l) == 16 do
         rem(checksum(l), 10) == 0
     end
+    
     def checksum(l) do
         [h | t] = Enum.reverse(l)
         sanitize_list = t
@@ -17,6 +18,7 @@ defmodule Luhn do
 
         h + calc(sanitize_list)
     end
+
     def calc([n1]) do
         n1
     end
